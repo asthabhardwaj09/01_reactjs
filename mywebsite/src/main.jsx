@@ -9,7 +9,7 @@ function MyApp(){
     </div>
   )
 }
-
+// astha
 // this code will not run because react library have its own policy.
 //  We can write our code whether in jsx or without jsx then it will convert into tree like (below code same) but we cannot write this way directly. 
 // when we write the code in jsx or without jsx then it will be converted into tree like strutucre using babel
